@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://ypassword.espozito.com/Scratch/en/support/</loc>
+    <lastmod>2012-09-19</lastmod>
+  </url>
+  <url>
     <loc>http://ypassword.espozito.com/Scratch/fr/blog/feed/feed.xml</loc>
     <lastmod>2011-05-02</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/fr/getit/</loc>
-    <lastmod>2012-09-19</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/en/blog/</loc>
-    <lastmod>2011-07-27</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/sitemap.xml</loc>
-    <lastmod>2011-05-02</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/fr/</loc>
-    <lastmod>2011-07-27</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/en/getit/</loc>
-    <lastmod>2012-09-19</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/fr/blog/2011-05-05-Screenshots/</loc>
-    <lastmod>2011-07-12</lastmod>
-  </url>
-  <url>
-    <loc>http://ypassword.espozito.com/Scratch/en/blog/2011-05-05-Screenshots/</loc>
-    <lastmod>2011-07-12</lastmod>
   </url>
   <url>
     <loc>http://ypassword.espozito.com/Scratch/fr/support/</loc>
@@ -41,15 +17,39 @@
     <lastmod>2011-05-02</lastmod>
   </url>
   <url>
-    <loc>http://ypassword.espozito.com/Scratch/fr/blog/</loc>
+    <loc>http://ypassword.espozito.com/Scratch/fr/getit/</loc>
+    <lastmod>2012-09-22</lastmod>
+  </url>
+  <url>
+    <loc>http://ypassword.espozito.com/Scratch/en/getit/</loc>
+    <lastmod>2012-09-22</lastmod>
+  </url>
+  <url>
+    <loc>http://ypassword.espozito.com/Scratch/en/blog/</loc>
     <lastmod>2011-07-27</lastmod>
   </url>
   <url>
-    <loc>http://ypassword.espozito.com/Scratch/en/support/</loc>
-    <lastmod>2012-09-19</lastmod>
+    <loc>http://ypassword.espozito.com/Scratch/fr/</loc>
+    <lastmod>2011-07-27</lastmod>
+  </url>
+  <url>
+    <loc>http://ypassword.espozito.com/Scratch/sitemap.xml</loc>
+    <lastmod>2011-05-02</lastmod>
   </url>
   <url>
     <loc>http://ypassword.espozito.com/Scratch/en/</loc>
     <lastmod>2011-07-27</lastmod>
+  </url>
+  <url>
+    <loc>http://ypassword.espozito.com/Scratch/en/blog/2011-05-05-Screenshots/</loc>
+    <lastmod>2011-07-12</lastmod>
+  </url>
+  <url>
+    <loc>http://ypassword.espozito.com/Scratch/fr/blog/</loc>
+    <lastmod>2011-07-27</lastmod>
+  </url>
+  <url>
+    <loc>http://ypassword.espozito.com/Scratch/fr/blog/2011-05-05-Screenshots/</loc>
+    <lastmod>2011-07-12</lastmod>
   </url>
 </urlset>
